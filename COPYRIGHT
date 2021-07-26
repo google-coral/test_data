@@ -55,3 +55,27 @@ URL: https://www.flickr.com/creativecommons/
 
 - kites_and_cold.jpg
   https://www.flickr.com/photos/mike_miley/4678754542/in/photolist-88rQHL-88oBVp-88oC2B-88rS6J-88rSqm-88oBLv-88oBC4
+
+
+Popular us_products_V1.1
+Licence: Creative Commons Attribution 3.0 License
+URL: https://creativecommons.org/licenses/by/3.0/
+
+- missvickie_potato_chips.bmp
+  https://tfhub.dev/google/on_device_vision/classifier/popular_us_products_V1/1
+
+
+Pexels free photos
+License: https://www.pexels.com/license/
+URL: https://www.pexels.com/
+
+- squat.bmp
+  https://images.pexels.com/photos/4384679/pexels-photo-4384679.jpeg
+
+
+MNIST
+License: Creative Commons Attribution-Share Alike 3.0 license.
+URL: http://creativecommons.org/licenses/by-sa/3.0/
+
+- mnist_nine.bmp
+  http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
