@@ -1,24 +1,24 @@
-background
-aeroplane
-bicycle
-bird
-boat
-bottle
-bus
-car
-cat
-chair
-cow
-diningtable
-dog
-horse
-motorbike
-person
-pottedplant
-sheep
-sofa
-train
-tvmonitor
-
-and 255 is the ignore label that marks pixels excluded from learning and
-evaluation by the PASCAL VOC ground truth.
+0background
+1aeroplane
+2bicycle
+3bird
+4boat
+5bottle
+6bus
+7car
+8cat
+9chair
+10cow
+11diningtable
+12dog
+13horse
+14motorbike
+15person
+16pottedplant
+17sheep
+18sofa
+19train
+20tvmonitor
+21
+22and 255 is the ignore label that marks pixels excluded from learning and
+23evaluation by the PASCAL VOC ground truth.

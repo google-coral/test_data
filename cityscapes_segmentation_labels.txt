@@ -1,20 +1,20 @@
-background
-road
-sidewalk
-building
-wall
-fence
-pole
-traffic light
-traffic sign
-vegetation
-terrain
-sky
-person
-rider
-car
-truck
-bus
-train
-motorcycle
-bicycle
+0background
+1road
+2sidewalk
+3building
+4wall
+5fence
+6pole
+7traffic light
+8traffic sign
+9vegetation
+10terrain
+11sky
+12person
+13rider
+14car
+15truck
+16bus
+17train
+18motorcycle
+19bicycle

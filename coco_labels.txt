@@ -1,90 +1,90 @@
-person
-bicycle
-car
-motorcycle
-airplane
-bus
-train
-truck
-boat
-traffic light
-fire hydrant
-n/a
-stop sign
-parking meter
-bench
-bird
-cat
-dog
-horse
-sheep
-cow
-elephant
-bear
-zebra
-giraffe
-n/a
-backpack
-umbrella
-n/a
-n/a
-handbag
-tie
-suitcase
-frisbee
-skis
-snowboard
-sports ball
-kite
-baseball bat
-baseball glove
-skateboard
-surfboard
-tennis racket
-bottle
-n/a
-wine glass
-cup
-fork
-knife
-spoon
-bowl
-banana
-apple
-sandwich
-orange
-broccoli
-carrot
-hot dog
-pizza
-donut
-cake
-chair
-couch
-potted plant
-bed
-n/a
-dining table
-n/a
-n/a
-toilet
-n/a
-tv
-laptop
-mouse
-remote
-keyboard
-cell phone
-microwave
-oven
-toaster
-sink
-refrigerator
-n/a
-book
-clock
-vase
-scissors
-teddy bear
-hair drier
-toothbrush
+0person
+1bicycle
+2car
+3motorcycle
+4airplane
+5bus
+6train
+7truck
+8boat
+9traffic light
+10fire hydrant
+11n/a
+12stop sign
+13parking meter
+14bench
+15bird
+16cat
+17dog
+18horse
+19sheep
+20cow
+21elephant
+22bear
+23zebra
+24giraffe
+25n/a
+26backpack
+27umbrella
+28n/a
+29n/a
+30handbag
+31tie
+32suitcase
+33frisbee
+34skis
+35snowboard
+36sports ball
+37kite
+38baseball bat
+39baseball glove
+40skateboard
+41surfboard
+42tennis racket
+43bottle
+44n/a
+45wine glass
+46cup
+47fork
+48knife
+49spoon
+50bowl
+51banana
+52apple
+53sandwich
+54orange
+55broccoli
+56carrot
+57hot dog
+58pizza
+59donut
+60cake
+61chair
+62couch
+63potted plant
+64bed
+65n/a
+66dining table
+67n/a
+68n/a
+69toilet
+70n/a
+71tv
+72laptop
+73mouse
+74remote
+75keyboard
+76cell phone
+77microwave
+78oven
+79toaster
+80sink
+81refrigerator
+82n/a
+83book
+84clock
+85vase
+86scissors
+87teddy bear
+88hair drier
+89toothbrush
